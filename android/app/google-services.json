@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "727639359706",
+    "project_id": "questioning-app",
+    "storage_bucket": "questioning-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727639359706:android:5259106257c9e9b80c25e3",
+        "android_client_info": {
+          "package_name": "bininyam.developer.com.dribble_question_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727639359706-b68h08gcbbdbft42fkj59ju10dp7bsu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bininyam.developer.com.dribble_question_app",
+            "certificate_hash": "77078bd3565f06a2d36c893eaf18ffc07ac69835"
+          }
+        },
+        {
+          "client_id": "727639359706-bc65jbjevga9uspkjaidi4pe81tdp5ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6p5ODPQi2czq5onIy5wvypkjbOo90y24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727639359706-bc65jbjevga9uspkjaidi4pe81tdp5ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
